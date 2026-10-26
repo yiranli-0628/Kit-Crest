@@ -1,0 +1,17 @@
+KIT & CREST / EXPORTED SETTINGS
+
+team: River City FC
+primary: #61213d
+secondary: #f6d66d
+crest: shield
+pattern: sash
+
+Fictional match settings
+opponent: Harbour United
+home_score: 2
+away_score: 1
+clock: 67:24
+
+PNG crest and shirts have transparent backgrounds. SVG contains editable shapes and text.
+Team and comparison sheets are concept previews, not measured sewing or print specifications.
+The score and clock are manually entered, not live feeds.
