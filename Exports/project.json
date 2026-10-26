@@ -1,0 +1,15 @@
+{
+  "design": {
+    "team": "River City FC",
+    "primary": "#61213d",
+    "secondary": "#f6d66d",
+    "crest": "shield",
+    "pattern": "sash"
+  },
+  "match": {
+    "opponent": "Harbour United",
+    "home_score": 2,
+    "away_score": 1,
+    "clock": "67:24"
+  }
+}
