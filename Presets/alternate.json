@@ -1,0 +1,15 @@
+{
+  "design": {
+    "team": "Lakeside Community Football Club",
+    "primary": "#125456",
+    "secondary": "#f4e8c8",
+    "crest": "round",
+    "pattern": "hoops"
+  },
+  "match": {
+    "opponent": "Northside Athletic & Community Club",
+    "home_score": 3,
+    "away_score": 2,
+    "clock": "Full time"
+  }
+}
